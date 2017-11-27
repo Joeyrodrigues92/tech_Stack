@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTNavigator.m \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTNavigator.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/user/Desktop/Lit/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/user/Desktop/Lit/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/user/Desktop/Lit/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTView.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/user/Desktop/Lit/tech_stack/node_modules/react-native/React/Views/UIView+React.h
